@@ -4,7 +4,6 @@
 ...
 <!-- Empty div where the viz will be placed -->
 <div id="tableauViz"></div>
-JavaScript:
 
 function initializeViz() {
   // JS object that points at empty div in the html
